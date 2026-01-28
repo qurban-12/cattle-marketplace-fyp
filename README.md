@@ -1,2 +1,2 @@
 # cattle-marketplace-fyp
-Cattle Marketplace is a FYP app that connects buyers and sellers of livestock. Sellers list cattle with details, buyers can browse and contact them.
+Cattle Marketplace is a Final Year Project that digitalizes livestock trading by connecting buyers and sellers through a mobile application. Sellers can list cattle with detailed information, while buyers can easily browse, search, and contact sellers.
